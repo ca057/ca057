@@ -11,8 +11,6 @@
 					}
 				}
 				.marquee {
-					font-size: 24px;
-					line-height: 30px
 					animation: 15s linear infinite normal marquee;
 				}
 		      	</style>
