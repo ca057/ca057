@@ -2,13 +2,22 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-			      @keyframes marquee {
-				0% { transform: translatex(-100%); }
-				100% { transform: translatex(100%); }
-			      }
-			      .marquee { animation: 15s linear infinite normal marquee; }
+				@keyframes marquee {
+					0% {
+						transform: translatex(-100%);
+					}
+					100% {
+						transform: translatex(100%);
+					}
+				}
+				
+				.marquee {
+					animation: 15s linear infinite normal marquee;
+				}
 		      	</style>
-			<p class="marquee">Freelance frontend developer</p>
+			<div>
+				<p class="marquee">Freelance frontend developer</p>
+			</div>
 		</div>
 	</foreignObject>
 </svg>
