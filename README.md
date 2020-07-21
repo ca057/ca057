@@ -1,10 +1,7 @@
-<style>
-@keyframes marquee {
-  from { transform: translatex(-100%); }
-  to { transform: translatex(100%); }
-}
-.marquee { animation: 15s linear infinite normal marquee; }
-</style>
-<p class="marquee">
-Frontend developer
-</p>
+<div align="center">
+	<br>
+	<a href="https://github.com/ca057/ca057/blame/master/header.svg">
+		<img src="header.svg" width="100%">
+	</a>
+	<br>
+</div>
