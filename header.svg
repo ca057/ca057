@@ -10,14 +10,15 @@
 						transform: translatex(100%);
 					}
 				}
-				
+				.container {
+					height: 50px;
+				}
 				.marquee {
-					line-height: 50px;
-					vertical-align: center;
+					margin: auto 0;
 					animation: 15s linear infinite normal marquee;
 				}
 		      	</style>
-			<div>
+			<div class="container">
 				<p class="marquee">Freelance frontend developer</p>
 			</div>
 		</div>
