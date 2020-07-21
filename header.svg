@@ -7,10 +7,8 @@
 				to { transform: translatex(100%); }
 			      }
 			      .marquee { animation: 15s linear infinite normal marquee; }
-		      </style>
-		      <div>
-			      <p class="marquee">Freelance frontend developer</p>
-		      </div>
+		      	</style>
+			<p class="marquee">Freelance frontend developer</p>
 		</div>
 	</foreignObject>
 </svg>
