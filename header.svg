@@ -13,6 +13,7 @@
 				
 				.marquee {
 					line-height: 50px;
+					vertical-align: center;
 					animation: 15s linear infinite normal marquee;
 				}
 		      	</style>
